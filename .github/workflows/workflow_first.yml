@@ -11,3 +11,8 @@ jobs:
 
       - name: Run a Goodbye
         run: echo Goodbye
+
+      - name: Run Something
+        run: |
+            echo "Start Running"
+            echo Stop Running"
