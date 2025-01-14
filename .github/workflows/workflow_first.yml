@@ -14,5 +14,5 @@ jobs:
 
       - name: Run Something
         run: |
-            echo "Start Running"
-            echo Stop Running"
+            echo Start Running
+            echo Stop Running
